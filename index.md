@@ -3,17 +3,14 @@
         <link rel='stylesheet' href='./main.css'>
     </head>
     <body>
-        <img src='file:///C:/Users/Jan/Desktop/Work%20space.jpg' class='work-space-img'>
-        <img=''
-          border-radius:150px;
-          >
-        <h1> Jan's Page</h1>
-        <p> Testing</p>
-        <p> Hello</p>
+                <h1> Jan's Page</h1>        
+        <img src='https://i.ibb.co/FYmk3J4/Small.png' width="300" height="200" class='image'
+        >
+            <p> Testing</p>
+            <p> Hello</p>
     </body>
 </html>
 
 //Heading
-Photo
 Skills
 Navagation bar
