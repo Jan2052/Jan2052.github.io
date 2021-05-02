@@ -1,6 +1,11 @@
 p {
     color:brown
-}]
+}
 body {
     background-color: burlywood;
 }
+.image {
+    background-image: url("https://i.ibb.co/FYmk3J4/Small.png");
+    border-radius: 50px;
+  }
+  
